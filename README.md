@@ -12,6 +12,40 @@
 
 以下为一则清单，包含**信息资讯、工具推荐、使用教程、生活感悟**等，旨在将你引向独立思考和客观理性。我会持续更新和维护，也可以视作本人的「废话集」和 eBooksPlan 公众号文集的备份。
 
+##目录
+
+- [废话集](#---)
+  * [信息资讯](#----)
+    + [赵赛坡](#---)
+    + [大公司头条](#-----)
+    + [阮一峰](#---)
+    + [奔跑中的奶酪](#------)
+    + [李永乐老师](#-----)
+    + [文倩的世界周报](#-------)
+    + [可能吧](#---)
+    + [Hacker News](#hacker-news)
+    + [Stratechery by Ben Thompson](#stratechery-by-ben-thompson)
+    + [Matters](#matters)
+    + [少数派](#---)
+    + [如月中天](#----)
+    + [Solidot](#solidot)
+    + [值物志](#---)
+    + [Johns Hopkins 全球疫情实时数据中心](#johns-hopkins-----------)
+  * [工具推荐](#----)
+    + [微信小助手](#-----)
+    + [uPic(upload Picture)](#upic-upload-picture-)
+    + [隐私政策文件生成](#--------)
+  * [使用教程](#----)
+    + [Telegram](#telegram)
+  * [生活感悟](#----)
+    + [关于春日晒太阳的一点感想](#------------)
+  * [赛博朋克与女性主义](#---------)
+  * [书摘笔记](#----)
+    + [0331](#0331)
+  * [写在最后](#----)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## 信息资讯
 
 ### 赵赛坡
