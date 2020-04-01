@@ -154,6 +154,14 @@ Solidot 是伴随着国内外 Blog 的兴起，Web 2.0 概念的提出而创建�
 
 [点击查看](https://coronavirus.jhu.edu/map.html)
 
+### 第 44 次《中国互联网络发展状况统计报告》
+
+花半小时阅读完它，你会发现很多有趣的东西，建议阅读。
+
+![DNqVMB5A2LRfInx](https://i.loli.net/2020/04/01/DNqVMB5A2LRfInx.png)
+
+[点击阅读](http://www.cac.gov.cn/2019-08/30/c_1124938750.htm)
+
 ## 工具推荐
 
 ### 微信小助手
