@@ -1,4 +1,8 @@
-# 数字生活指北
+# 废话集
+
+[*<u>作者@橱柜扫地僧</u>*](https://weibo.com/u/3150953875)   始于 2020 年 4 月 1 日，愚人节是个开始的好日子。
+
+------
 
 随着 2020 款 iPad Pro 的发布，关于「生产力」的讨论一下子热闹起来，在我的数字生活理念里，它可以被理解为「**人对信息的关系，是创造信息和影响信息并使之适应成长需要的客观力量**」，英语为「Productive Forces」，其核心在互联网时代已经由「自然」演变为「信息」，而这是我们任何人都绕不开的话题。
 
@@ -8,7 +12,7 @@
 
 以下为一则清单，包含**信息资讯、工具推荐、使用教程、生活感悟**等，旨在将你引向独立思考和客观理性。我会持续更新和维护，也可以视作本人的「废话集」和 eBooksPlan 公众号文集的备份。
 
-##资讯文章类
+## 信息资讯
 
 ### 赵赛坡
 
@@ -50,6 +54,8 @@
 
 可能是台湾地区唯一关注亚洲和世界的媒体。立场偏右，自由主义，虽有博爱不切实际之感，但总归有媒体人的良心和公道。
 
+*2020 年 4 月 1 日补充：随着新冠肺炎疫情在全球的蔓延，节目立场越加倾向西方媒体，且常常会出现知识性错误，一种「认知失调」的心理似乎出现在文倩姐的身上。*
+
 [订阅地址](https://www.youtube.com/channel/UCiwt1aanVMoPYUt\_CQYCPQg)
 
 ### 可能吧
@@ -82,7 +88,7 @@
 
 [订阅地址](https://beta.sspai.com)
 
-###如月中天
+### 如月中天
 
 这是一个值得关注的 Twitter 号，虽然每次打开 Twitter 的时候都被这位大妈刷满了时间轴，但是还是会把她的吐槽和读书心得看完，有时候不知道读什么书了，就去翻翻她的时间轴，总能获得一些启发。我们所谓的鼓励输出，并不是要系统的长篇大论，而是自我咀嚼和消化后的简短输出，灵感常常从中迸发出。
 
@@ -96,13 +102,31 @@ Solidot 是伴随着国内外 Blog 的兴起，Web 2.0 概念的提出而创建�
 
 [订阅地址](https://t.me/solidot)
 
+### 值物志
+
+分享各种值得尝试的事物：值得读的书、值得用的软件、值得看的电视剧…
+
+维护者为 [@DoubleQ Sun](https://qqsun.xyz)，笔者关注很久了，获益良多。
+
+![UacpsWELoHMznmN](https://i.loli.net/2020/04/01/UacpsWELoHMznmN.png)
+
+[订阅地址](https://t.me/zhiwuzhi)
+
 ## 工具推荐
 
 ### 微信小助手
 
 macOS 版的微信功能拓展，支持黑夜/少女 模式、消息防撤回、免认证登录与多开、自定义回复和 AI 自动撩妹、Alfred、退群监控等功能，十分实用。
 
-https://github.com/MustangYM/WeChatExtension-ForMac
+[项目主页](https://github.com/MustangYM/WeChatExtension-ForMac)
+
+### uPic(upload Picture) 
+
+一款 Mac 端的图床(文件)上传客户端。无论是本地文件、或者屏幕截图都可自动上传，菜单栏显示实时上传进度。上传完成后文件链接自动复制到剪切板，让你无论是在写博客、灌水聊天都能快速插入图片。 连接格式可以是普通 URL、HTML 或者 Markdown，仍由你掌控。
+
+![9tPyjF83UR4DC7O](https://i.loli.net/2020/04/01/9tPyjF83UR4DC7O.png)
+
+[项目主页](https://github.com/gee1k/uPic)
 
 ## 使用教程
 
@@ -110,7 +134,7 @@ https://github.com/MustangYM/WeChatExtension-ForMac
 
 已有一份现成的优秀的电报教程
 
-https://tingtalk.me/telegram
+[点击阅读](https://tingtalk.me/telegram)
 
 ## 生活感悟
 
