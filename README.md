@@ -14,34 +14,39 @@
 
 ## 目录
 
-- [废话集](#废话集)
-  * [信息资讯](#信息资讯)
-    + [赵赛坡](#赵赛坡)
-    + [大公司头条](#大公司头条)
-    + [阮一峰](#阮一峰)
-    + [奔跑中的奶酪](#奔跑中的奶酪)
+- [废话集](#---)
+  * [信息资讯](#----)
+    + [赵赛坡](#---)
+    + [大公司头条](#-----)
+    + [阮一峰](#---)
+    + [奔跑中的奶酪](#------)
     + [李永乐老师](#-----)
     + [文倩的世界周报](#-------)
-    + [可能吧](#可能吧)
+    + [可能吧](#---)
     + [Hacker News](#hacker-news)
     + [Stratechery by Ben Thompson](#stratechery-by-ben-thompson)
     + [Matters](#matters)
-    + [少数派](#少数派)
-    + [如月中天](#如月中天)
+    + [少数派](#---)
+    + [如月中天](#----)
     + [Solidot](#solidot)
-    + [值物志](#值物志])
-  * [工具推荐](#工具推荐)
-    + [微信小助手](#微信小助手)
-    + [uPic(upload Picture)](#upic-upload-picture)
-    + [隐私政策文件生成](#隐私政策文件生成)
-  * [使用教程](#使用教程)
+    + [值物志](#---)
+    + [Johns Hopkins](#johns-hopkins)
+    + [第 44 次《中国互联网络发展状况统计报告》](#--44------------------)
+  * [工具推荐](#----)
+    + [微信小助手](#-----)
+    + [uPic(upload Picture)](#upic-upload-picture-)
+    + [隐私政策文件生成](#--------)
+  * [使用教程](#----)
     + [Telegram](#telegram)
-  * [生活感悟](#生活感悟)
-    + [关于春日晒太阳的一点感想](#关于春日晒太阳的一点感想)
-    + [赛博朋克与女性主义](#关于春日晒太阳的一点感想)
-  * [书摘笔记](#书摘笔记)
+    + [Sabrina 的万事屋](#sabrina-----)
+    + [神奇海螺](#----)
+  * [生活感悟](#----)
+    + [关于春日晒太阳的一点感想](#------------)
+    + [赛博朋克与女性主义](#---------)
+  * [书摘笔记](#----)
     + [0331](#0331)
-  * [写在最后](#写在最后)
+    + [0401](#0401)
+  * [写在最后](#----)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -193,6 +198,62 @@ macOS 版的微信功能拓展，支持黑夜/少女 模式、消息防撤回、
 
 [点击阅读](https://tingtalk.me/telegram)
 
+### Sabrina 的万事屋
+
+该博客发布了大量自由上网的教程，质量很高，其中又以 Quantumult X 教程最为详尽，懒人包十分好上手。
+
+![cB4pvSuwthM3gRD](https://i.loli.net/2020/04/01/cB4pvSuwthM3gRD.jpg)
+
+感谢网友 @beike04 整理制作的图片
+
+[点击阅读](https://merlinblog.xyz/wikipageguide.html)
+
+### 神奇海螺
+
+包含主流自由软件的教程，水平很高，值得阅读。
+
+**Android 客户端**
+
+Surfboard ： https://wiki.kache.moe/2019/11/22/Andoird-Surfboard/
+
+Kitsunebi ： https://wiki.kache.moe/2019/11/12/Andoird-Kitsunebi/
+
+ClashA : https://wiki.kache.moe/2019/11/13/Andoird-ClashA/
+
+V2RayNG : https://wiki.kache.moe/2019/11/11/Andoird-V2RayNG/
+
+Outline ： https://wiki.kache.moe/2019/11/14/Andoird-Outline/
+
+ShadowsocksR （小飞机 / SSR）： https://wiki.kache.moe/2019/12/06/Android-ShadowsocksR/
+
+**iOS/iPadOS 客户端**
+
+Quantumult (圈) : https://wiki.kache.moe/2019/11/17/iOS-Quantumult/
+
+Quantumult X ： https://wiki.kache.moe/2019/11/18/iOS-QuantumultX/
+
+Shadowrocket (小火箭) : https://wiki.kache.moe/2019/11/16/iOS-Shadowrocket/
+
+Outline ： https://wiki.kache.moe/2019/11/14/Andoird-Outline/
+
+Surge ： https://wiki.kache.moe/2019/11/15/iOS-Surge/
+
+**Windows 客户端**
+
+Clash for Windows : https://wiki.kache.moe/2019/11/21/Windows-CFW/
+
+Netch : https://wiki.kache.moe/2019/11/20/Windows-Netch/
+
+SSTap ：https://wiki.kache.moe/2019/11/19/Windows-SSTap/
+
+Mac OS 客户端
+
+ClashX ： https://wiki.kache.moe/2019/12/11/macOS-ClashX/
+
+ShadowsocksX-NG-R8 ： https://wiki.kache.moe/2019/12/06/macOS-ShadowsocksX-NG-R8/
+
+[阅读所有](https://wiki.kache.moe/)
+
 ## 生活感悟
 
 ### 关于春日晒太阳的一点感想
@@ -251,6 +312,15 @@ macOS 版的微信功能拓展，支持黑夜/少女 模式、消息防撤回、
 
 摘录来自《怪谈·奇谭》小泉八云(Koizumi Yakumo）
 
+### 0401
+
+“移动互联网的发展，直接带来了阅读时间的高度碎片化，人人手上的那部手机，看起来就像是过往人人腋下夹着的报纸杂志，但无处不在的通知与眼花缭乱的链接，则彻底改变了碎片阅读的本质。
+「真的猛士」，**就应该勇敢承认碎片化阅读引发的思维与行为模式的变化**，以此作为出发点，寻找更多可以优化碎片化阅读的方法，譬如稍后读就是一个值得探讨的机制。进一步延伸：如何在一个时间高度碎片化的时代，将目标、工具、时间相结合，构建一套深度阅读的方法论？”
+
+摘录来自: 赵赛坡. “iPad Pro 生产力指南 V2.2。” Apple Books. 
+
 ## 写在最后
 
 如果你持续阅读以上资讯，熟练使用其中的工具，大概率会将你变成乐观的未来主义者，且直男属性上升，请谨慎订阅！
+
+你可以通过邮箱 yaoleifly@gmail.com 来联系我。
