@@ -214,43 +214,33 @@ macOS 版的微信功能拓展，支持黑夜/少女 模式、消息防撤回、
 
 **Android 客户端**
 
-Surfboard ： https://wiki.kache.moe/2019/11/22/Andoird-Surfboard/
-
-Kitsunebi ： https://wiki.kache.moe/2019/11/12/Andoird-Kitsunebi/
-
-ClashA : https://wiki.kache.moe/2019/11/13/Andoird-ClashA/
-
-V2RayNG : https://wiki.kache.moe/2019/11/11/Andoird-V2RayNG/
-
-Outline ： https://wiki.kache.moe/2019/11/14/Andoird-Outline/
-
-ShadowsocksR （小飞机 / SSR）： https://wiki.kache.moe/2019/12/06/Android-ShadowsocksR/
+- [Surfboard](https://wiki.kache.moe/2019/11/22/Andoird-Surfboard/)
+- [Kitsunebi](https://wiki.kache.moe/2019/11/12/Andoird-Kitsunebi/)
+- [ClashA](https://wiki.kache.moe/2019/11/13/Andoird-ClashA/)
+- [V2RayNG](https://wiki.kache.moe/2019/11/11/Andoird-V2RayNG/)
+- [Outline](https://wiki.kache.moe/2019/11/14/Andoird-Outline/)
+- [ShadowsocksR](https://wiki.kache.moe/2019/12/06/Android-ShadowsocksR/)
 
 **iOS/iPadOS 客户端**
 
-Quantumult (圈) : https://wiki.kache.moe/2019/11/17/iOS-Quantumult/
-
-Quantumult X ： https://wiki.kache.moe/2019/11/18/iOS-QuantumultX/
-
-Shadowrocket (小火箭) : https://wiki.kache.moe/2019/11/16/iOS-Shadowrocket/
-
-Outline ： https://wiki.kache.moe/2019/11/14/Andoird-Outline/
-
-Surge ： https://wiki.kache.moe/2019/11/15/iOS-Surge/
+- [Quantumult (圈)](https://wiki.kache.moe/2019/11/17/iOS-Quantumult/) 
+- [Quantumult X](https://wiki.kache.moe/2019/11/18/iOS-QuantumultX/)
+- [Shadowrocket](https://wiki.kache.moe/2019/11/16/iOS-Shadowrocket/) 
+- [Outline](https://wiki.kache.moe/2019/11/14/Andoird-Outline/)
+- [Surge](https://wiki.kache.moe/2019/11/15/iOS-Surge/)
 
 **Windows 客户端**
 
-Clash for Windows : https://wiki.kache.moe/2019/11/21/Windows-CFW/
+- [Clash for Windows](https://wiki.kache.moe/2019/11/21/Windows-CFW/)
+- [Netch](https://wiki.kache.moe/2019/11/20/Windows-Netch/)
+- [SSTap](https://wiki.kache.moe/2019/11/19/Windows-SSTap/)
 
-Netch : https://wiki.kache.moe/2019/11/20/Windows-Netch/
+**Mac OS 客户端**
 
-SSTap ：https://wiki.kache.moe/2019/11/19/Windows-SSTap/
+- [ClashX](https://wiki.kache.moe/2019/12/11/macOS-ClashX/)
+- [ShadowsocksX-NG-R8](https://wiki.kache.moe/2019/12/06/macOS-ShadowsocksX-NG-R8/)
 
-Mac OS 客户端
 
-ClashX ： https://wiki.kache.moe/2019/12/11/macOS-ClashX/
-
-ShadowsocksX-NG-R8 ： https://wiki.kache.moe/2019/12/06/macOS-ShadowsocksX-NG-R8/
 
 [阅读所有](https://wiki.kache.moe/)
 
