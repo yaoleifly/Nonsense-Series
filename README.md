@@ -30,7 +30,6 @@
     + [如月中天](#如月中天)
     + [Solidot](#solidot)
     + [值物志](#值物志])
-    + [Johns Hopkins 全球疫情实时数据中心](#Johns Hopkins 全球疫情实时数据中心)
   * [工具推荐](#工具推荐)
     + [微信小助手](#微信小助手)
     + [uPic(upload Picture)](#upic-upload-picture)
@@ -146,7 +145,7 @@ Solidot 是伴随着国内外 Blog 的兴起，Web 2.0 概念的提出而创建�
 
 [订阅地址](https://t.me/zhiwuzhi)
 
-### Johns Hopkins 全球疫情实时数据中心
+### Johns Hopkins
 
 疫情全球爆发，给了数据可视化一次发挥展示效果的机会。
 
