@@ -106,7 +106,7 @@ Solidot 是伴随着国内外 Blog 的兴起，Web 2.0 概念的提出而创建�
 
 分享各种值得尝试的事物：值得读的书、值得用的软件、值得看的电视剧…
 
-维护者为 [@DoubleQ Sun](https://qqsun.xyz)，笔者关注很久了，获益良多。
+维护者为 [@DoubleQ Sun](https://qqsun.xyz)，笔者关注很久了，获益良多。。
 
 ![UacpsWELoHMznmN](https://i.loli.net/2020/04/01/UacpsWELoHMznmN.png)
 
