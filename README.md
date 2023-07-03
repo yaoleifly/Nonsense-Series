@@ -558,6 +558,27 @@ T568A标准：橙白，橙，绿白，蓝，蓝白，绿，棕白，棕；
 
 总之，设计类似的大数据研发治理产品需要考虑到多个方面，包括功能设计、用户体验设计、技术实现、数据安全和隐私保护、持续优化和升级等。
 
+### 0702
+
+Google 良心免费课程，还有职业证书。
+
+1.数字营销的基础
+https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
+
+2.Python的数据科学
+https://learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python
+
+3. 使用JavaScript学习编程
+https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript
+
+4. Google云计算基础
+https://www.cloudskillsboost.google/course_templates/153
+
+5. 机器学习速成课程
+https://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course
+
+👨‍🌾我记得蛮早的时候还有职业证书，有四个职业：数据分析、项目经理、UX 设计师、IT 支持。  https://grow.google/intl/ALL_sg/skillsignitionsg/?category=for-individuals&tab=scholarships-for-businesses
+
 ## 写在最后
 
 如果你持续阅读以上资讯，熟练使用其中的工具，大概率会将你变成乐观的未来主义者，且直男属性上升，请谨慎订阅！
