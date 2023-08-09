@@ -579,6 +579,13 @@ https://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-cras
 
 👨‍🌾我记得蛮早的时候还有职业证书，有四个职业：数据分析、项目经理、UX 设计师、IT 支持。  https://grow.google/intl/ALL_sg/skillsignitionsg/?category=for-individuals&tab=scholarships-for-businesses
 
+
+### 0809
+
+OpenSSH 的客户端是二进制程序 ssh，它在 Linux/Unix 系统的位置是 /user/local/bin/ssh
+
+详细教程 https://wangdoc.com/ssh/client
+
 ## 写在最后
 
 如果你持续阅读以上资讯，熟练使用其中的工具，大概率会将你变成乐观的未来主义者，且直男属性上升，请谨慎订阅！
